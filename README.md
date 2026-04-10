@@ -60,4 +60,5 @@ The models achieve high accuracy and robust performance across multiple MRI moda
 
 ## 📧 Contact
 Nikhil Sambarapu,Manisha seervi 
-Email: nikhilsa562@gmail.com,seervimanisha2005@gmail.com
+
+## Email: nikhilsa562@gmail.com,seervimanisha2005@gmail.com
